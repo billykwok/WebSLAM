@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    ".stylelintrc": "json",
+    ".netlify": "json",
+    ".flowconfig": "ini",
+    ".prettierrc": "json",
+    "*.h": "cpp",
+    "*.cc": "cpp",
+    "*.cpp": "cpp",
+    "*.hpp": "cpp",
+    "mutex": "cpp",
+    "core": "cpp",
+    "lu": "cpp",
+    "dense": "cpp",
+    "cstdio": "cpp"
+  }
+}
